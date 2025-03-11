@@ -77,3 +77,10 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) license.
+
+
+//curl -O -# https://dubbo-demo.oss-cn-hangzhou.aliyuncs.com/quickstart/dubbo-quickstart.zip
+unzip dubbo-quickstart
+cd dubbo-quickstart
+...#
+
